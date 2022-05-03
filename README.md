@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @federicogarciabarreiro
 - 👀 I’m interested in C# & Unity
-- 🌱 I’m currently learning .NET
-- 💞️ I’m looking to collaborate on video games
+- 🌱 I’m currently learning .NET & Solidity from my self
+- 💞️ I’m looking to collaborate on video games or some blockchain project
 - 📫 How to reach me -> federicogarciabarreiro@gmail.com
 - https://fedeegb.gitbook.io/portfolio
 
