@@ -1,9 +1,15 @@
--> 👋 Hi, I’m @federicogarciabarreiro
+👋 ¡Hola! Soy Federico Garcia Barreiro
 
--> 👀 I’m interested in C# & Unity
+🎮 Mi pasión está en C# y Unity, donde me dedico al emocionante mundo del desarrollo de videojuegos.
 
--> 💞️ I’m looking to collaborate on video games
+🌱 Actualmente GDScript y Godot han logrado captar mi atencion con exito.
 
--> 📫 How to reach me: federicogarciabarreiro@gmail.com
+💞️ Estoy buscando oportunidades de colaboración en proyectos de videojuegos.
 
--> 🌱 My portfolio: https://fedeegb.gitbook.io/portfolio
+📫 No dudes en contactarme por correo electrónico en federicogarciabarreiro@gmail.com.
+
+👁️‍🗨️ Puedes explorar mi portafolio en español y descubrir más sobre mis habilidades y proyectos.
+
+📚 Mi porfolio en gitbook -> https://fedeegb.gitbook.io/portfolio
+
+🕹️ Mis proyectos en itch.io -> https://fedeegb.itch.io
